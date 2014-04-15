@@ -1,4 +1,5 @@
 exports.formatters = {
+	trim: function(string){ return string.trim(); },
 	upper: function(string){ return string.toUpperCase(); },
 	lower: function(string){ return string.toLowerCase(); }
 };
