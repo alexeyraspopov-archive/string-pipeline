@@ -5,7 +5,7 @@
 ## Install
 
  * via [npm](https://npmjs.org) `npm install string-pipeline`
- * via [component](http://component.io) `component install string-pipeline`
+ * via [component](http://component.io) `component install alexeyraspopov/string-pipeline`
  * via [bower](http://bower.io) `bower install string-pipeline`
 
 ## API
