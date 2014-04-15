@@ -14,7 +14,10 @@ TBD
 
 ## Usage
 
-TBD
+	formatters.slice = function(string, args){ return string.slice(args[0], args[1]); };
+
+	format(['trim', 'upper', 'slice 2'], '   hello world   '); // 'LLO WORLD'
+
 
 ## License
 
