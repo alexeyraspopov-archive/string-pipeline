@@ -19,7 +19,3 @@ exports.format = function format(formatters, string){
 		return formatter.fn(string, formatter.args);
 	}, string);
 };
-
-exports.fromString = function(string){
-	return exports.format(string.split(/\s*\|\s*/).slice(1));
-};
