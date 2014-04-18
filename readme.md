@@ -4,9 +4,17 @@
 
 ## Install
 
- * via [npm](https://npmjs.org) `npm install string-pipeline`
- * via [component](http://component.io) `component install alexeyraspopov/string-pipeline`
- * via [bower](http://bower.io) `bower install string-pipeline`
+```bash
+$ npm install string-pipeline
+```
+
+```bash
+$ component install alexeyraspopov/string-pipeline
+```
+
+```bash
+$ bower install string-pipeline
+```
 
 ## API
 
